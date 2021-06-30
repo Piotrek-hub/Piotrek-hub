@@ -1,3 +1,3 @@
 ## Hello there, nice to meet you👋
 
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=Piotrek-hub&color=ff69b4)
